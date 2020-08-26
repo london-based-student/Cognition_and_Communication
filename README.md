@@ -1,5 +1,5 @@
 # Cognition_and_Communication
-University course that discovers the link between communication, language, and cognition. 
+Programming projects from a university course called 'Cognition and Communication' that discovers the link between communication, language, and cognition. 
 
 The course covers:
 - Similarities and differences between human language and animal communication systems
